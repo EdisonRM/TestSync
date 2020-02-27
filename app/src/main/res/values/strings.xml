@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TestSync</string>
-    <string name="rvwContact">rvwContact</string>
+    <string name="strBtnGrabar">Grabar</string>
+    <string name="strEtxNombreHint">Ingrese el nombre</string>
 </resources>
